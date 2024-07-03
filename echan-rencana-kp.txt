@@ -1,4 +1,6 @@
 Rencana KP
 
 - Project Android pakai kotlin (?)
-- Proposal 
+- Proposal
+- Riset cara buatnya
+- Langsung kerjakan
