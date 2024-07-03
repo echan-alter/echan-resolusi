@@ -1,4 +1,4 @@
 Rencana KP
 
-- Project Android pakai kotlin (?)
-- Proposal 
+- Di Kemenag aja
+- Buat sistem absensi
