@@ -1,6 +1,8 @@
 Rencana KP
 
-- Project Android pakai kotlin (?)
+- Di Kemenag aja
+- Buat sistem absensi
 - Proposal
 - Riset cara buatnya
 - Langsung kerjakan
+
