@@ -1,0 +1,3 @@
+Rencana KP
+
+- Project Android pakai kotlin (?)
